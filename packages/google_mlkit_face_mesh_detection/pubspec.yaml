@@ -24,5 +24,3 @@ flutter:
       android:
         package: com.google_mlkit_face_mesh_detection
         pluginClass: GoogleMlKitFaceMeshDetectionPlugin
-      ios:
-        pluginClass: GoogleMlKitFaceMeshDetectionPlugin

@@ -23,5 +23,3 @@ flutter:
       android:
         package: com.google_mlkit_smart_reply
         pluginClass: GoogleMlKitSmartReplyPlugin
-      ios:
-        pluginClass: GoogleMlKitSmartReplyPlugin

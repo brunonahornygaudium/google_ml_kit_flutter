@@ -24,5 +24,3 @@ flutter:
       android:
         package: com.google_mlkit_face_detection
         pluginClass: GoogleMlKitFaceDetectionPlugin
-      ios:
-        pluginClass: GoogleMlKitFaceDetectionPlugin

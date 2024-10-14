@@ -24,5 +24,3 @@ flutter:
       android:
         package: com.google_mlkit_translation
         pluginClass: GoogleMlKitTranslationPlugin
-      ios:
-        pluginClass: GoogleMlKitTranslationPlugin

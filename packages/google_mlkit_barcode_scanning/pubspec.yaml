@@ -24,5 +24,3 @@ flutter:
       android:
         package: com.google_mlkit_barcode_scanning
         pluginClass: GoogleMlKitBarcodeScanningPlugin
-      ios:
-        pluginClass: GoogleMlKitBarcodeScanningPlugin

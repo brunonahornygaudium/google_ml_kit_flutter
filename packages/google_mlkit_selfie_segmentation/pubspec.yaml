@@ -24,5 +24,3 @@ flutter:
       android:
         package: com.google_mlkit_selfie_segmentation
         pluginClass: GoogleMlKitSelfieSegmentationPlugin
-      ios:
-        pluginClass: GoogleMlKitSelfieSegmentationPlugin
